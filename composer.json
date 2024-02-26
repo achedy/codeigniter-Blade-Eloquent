@@ -1,8 +1,8 @@
 {
 	"require": {
-		"illuminate/view": "^5.4",
-		"illuminate/events": "^5.4",
-		"illuminate/database": "6.20.26",
+		"illuminate/view": "^5.8",
+		"illuminate/events": "^5.8", 
+		"illuminate/database": "^5.8",
 		"philo/laravel-blade": "^3.1"
 	},
 	"autoload": {
@@ -11,6 +11,7 @@
 		},
 		"classmap": [
 			"application/models"
-		 ]
+		]
 	}
 }
+
